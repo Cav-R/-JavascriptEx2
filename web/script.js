@@ -39,6 +39,7 @@ function adminStud(stud, callback) {
 }
 ;
 
+//Admin stud metoder
 function logItem(stud) {
     console.log("Name: " + stud.name + " id: " + stud.id + ", Classroom: " + stud.classroom);
 }
